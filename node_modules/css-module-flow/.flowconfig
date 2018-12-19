@@ -1,0 +1,9 @@
+[ignore]
+
+[include]
+index.js
+wat.js
+
+[libs]
+
+[options]
